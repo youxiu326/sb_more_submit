@@ -19,7 +19,7 @@ public class SbMoreSubmitApplicationTests {
 	@Test
 	public void contextLoads() {
 		/*
-		if(exists key){
+		if(no exists key){
 			return false;
 		}else {
 		 	del key;
